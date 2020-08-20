@@ -2,11 +2,12 @@
 
 ## Description
 
-This is a drumkit application. Play the drums using your mouse or your keyboard. This application is built using HTML, CSS, and Javascript.
+Drumkit is a response web drum application. Play the drums using your mouse or your keyboard. 
 
 ## Table of Contents
 
 * [Description](#description)
+* [Technology](#technology)
 * [User Story](#user-story)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -16,21 +17,22 @@ This is a drumkit application. Play the drums using your mouse or your keyboard.
 * [Questions](#questions)
 * [Deployed Application URL](#deployed-application-URL)
 
+## Technology
 
+- HTML
+- CSS
+- JavaScript
 
 ## User Story
 
-
 AS A drum musician
 I WANT to be able practice my drums when on the go
-SO THAT I can be prepared to perfrom in a concert.
+SO THAT I can be prepared to perform in a concert.
 
 
 ## Installation
 
-
 No installation needed
-
 
 ## Usage
 
@@ -64,5 +66,7 @@ For any questions, please contact kendayao at kendayao@gmail.com
 ## Deployed Application URL
 
 Deployed application link:  https://kendayao.github.io/Drumkit/
+
+Video Demo Link: https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen
 
 <img src="images/drumkit.png" width="450" height="400">
