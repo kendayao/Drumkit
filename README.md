@@ -2,7 +2,7 @@
 
 ## Description
 
-Drumkit is a response web drum application. Play the drums using your mouse or your keyboard. 
+Drumkit is a responsive web application. Play the drums using your mouse or your keyboard. 
 
 ## Table of Contents
 
